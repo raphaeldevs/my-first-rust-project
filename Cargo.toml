@@ -1,0 +1,10 @@
+[package]
+name = "my-first-rust-project"
+version = "1.0.0"
+authors = ["raphaeldevs <raphaeldeoliveiracorrea@gmail.com>"]
+description = "My first Rust project"
+repository = "https://github.com/raphaeldevs/my-first-rust-project"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
